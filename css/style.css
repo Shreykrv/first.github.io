@@ -1,0 +1,163 @@
+*{
+
+margin: 0px;
+paddind: 0px;}
+
+
+h1{
+text-shadow: 2px 2px 2px red;
+font-size: 50px;
+margin-left: 200px;
+padding-top: 20px;
+}
+/*h1:hover{
+//font-family: Abril Fatface, cursive;
+color: grey;
+text-shadow: 2px 2px 2px red;
+font-size: 55px;
+}*/
+#header{
+height: 100px;
+width: 1300px;
+background-color: #41b3a3;
+margin: 0px;
+background-image: url("akam.jpg");
+}
+#container{
+height: 1500px;
+width: 1300px;
+background-color:#dfe6e6;
+//border: 1px solid red;
+margin:auto;
+}
+#navi{
+width: auto;
+height: 60px;
+border: 5px solid red;
+background-color: white;
+margin: 0px;
+}
+nav ul{
+display: inline;
+text-decoration;
+
+}
+nav ul li{
+display: inline;
+margin-left: 50px;
+font-size: 30px;
+
+}
+li:hover{ 
+
+color:#659dbd;
+text-shadow: 2px 2px 1px yellow;
+}
+nav ul a{
+text-decoration: none;
+color: black;
+} 
+nav{
+margin-top: 10px;
+}
+#sect,{
+height: 450px;
+width: 1298px;
+//margin: 10px auto 10px auto;
+//border:1px solid green;
+background-color: #41b3a3;
+
+}
+#sect img{
+width: 1298px;
+height: 450px;
+}
+#p1{
+height: 725px; 
+width: 800px;
+border-right: 2px solid #ff7979;
+margin: 50px 10px 10px 30px;
+//background-color: #dff6e6;
+//overflow-x: scroll;
+float: left;
+}
+#p1 p{
+font-size: 20px;
+text-align:justify;
+word-spacing: 10px;
+//color: blue;
+margin: 20px 15px;
+
+}
+aside{
+height: 700px;
+width: 400px;
+//background-color: #41b3a3;
+//background-color: #dff6e6;
+float: right;
+margin: 60px 20px;
+}
+h2{
+font-size: 30px;
+margin-left: 5px;
+margin-top: 5px;
+//background-color: grey;
+}
+
+#h22{
+font-size: 20px;
+text-align: center;
+
+line-height:1.52;
+}
+
+input{
+//align: center;
+margin-top: 10px;
+margin-left: 150px;
+}
+#foot{
+height: 300px;
+width: 1300px;
+border: 1px solid black;
+align: bottom;
+margin: auto;
+background-color: #dfe6e6;
+border-radius: 0px 20px 0px 20px;
+margin-top: 10px;	
+}
+#fc{
+height: 300px;
+width: 400px;
+float: right;
+//border: 1px solid blue;
+margin-left: 20px;
+
+}
+
+#fb{
+height: 300px;
+width: 400px;
+float: right;
+//border: 1px solid blue;
+margin-left: 20px;
+position:  scroll;
+}
+#ifa{
+border-radius: 50%;
+margin: 20px 40px 10px 70px;
+border: 5px solid grey; 
+}
+#fa{
+height: 300px;
+width: 400px;
+float: right;
+//border: 1px solid blue;
+margin-left: 20px;
+margin-right: 20px;
+}
+#k{
+font-size: 25px; 
+color:rgb(250,100,198);
+border-right:5px solid red;"
+}

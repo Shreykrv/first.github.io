@@ -1,0 +1,192 @@
+*{
+
+margin: 0px;
+paddind: 0px;}
+
+
+h1{
+text-shadow: 2px 2px 2px red;
+font-size: 50px;
+margin-left: 200px;
+padding-top: 20px;
+}
+/*h1:hover{
+//font-family: Abril Fatface, cursive;
+color: grey;
+text-shadow: 2px 2px 2px red;
+font-size: 55px;
+}*/
+#header{
+height: 100px;
+width: 1300px;
+background-color: #41b3a3;
+margin: 0px;
+background-image: url("akam.jpg");
+}
+#container{
+height: 1700px;
+width: 1300px;
+background-color:#dfe6e6;
+//border: 1px solid red;
+margin:auto;
+}
+#navi{
+width: auto;
+height: 60px;
+border: 5px solid red;
+background-color: white;
+margin: 0px;
+}
+nav ul{
+display: inline;
+text-decoration;
+
+}
+nav ul li{
+display: inline;
+margin-left: 50px;
+font-size: 30px;
+
+}
+li:hover{ 
+
+color:#659dbd;
+text-shadow: 2px 2px 1px yellow;
+}
+nav ul a{
+text-decoration: none;
+color: black;
+} 
+nav{
+margin-top: 10px;
+}
+/*#sect,{
+height: 450px;
+width: 1298px;
+//margin: 10px auto 10px auto;
+//border:1px solid green;
+background-color: #41b3a3;
+
+}*/
+
+#about1{
+height: 700px;
+width: 1100px;
+//border: 1px solid red;
+margin: auto;
+margin-top: 50px
+
+}
+
+#about1 h2{
+font-size: 40px;
+}
+
+#about1 p{
+font-size: 20px;
+text-align: justify;
+line-height:1.5;
+}
+#about2{
+
+height: 450px;
+width: 1100px;
+//border: 1px solid red;
+margin: auto;
+//margin-top: 10px
+}
+#image{
+height: 250px;
+width: auto;
+//background-color: black;
+
+}
+#image div{
+height: 250px;
+width:260px;
+float: left;
+}
+#image div p{
+text-align: center;
+}
+.ima{
+heigth: 150px;
+width: 150px;
+border-radius: 50%;
+margin-left: 50px;
+margin-top: 50px;
+border: 5px solid grey;
+}
+#image a{
+text-decoration: none;
+}
+#yo{
+font-size: 40px;
+text-align: center;
+border-bottom: 2px solid red;
+}
+
+#yo1{
+font-size: 20px;
+text-align: justify;
+line-height:1.5;
+}
+#m{
+display: inline;
+}
+#last1{
+height: 50px;
+width: 400px;
+margin: auto;
+//background-color: red;
+}
+
+
+
+
+#foot{
+height: 300px;
+width: 1300px;
+border: 1px solid black;
+align: bottom;
+margin: auto;
+background-color: #dfe6e6;
+border-radius: 0px 20px 0px 20px;
+margin-top: 10px;	
+}
+#fc{
+height: 300px;
+width: 400px;
+float: right;
+//border: 1px solid blue;
+margin-left: 20px;
+
+}
+
+#fb{
+height: 300px;
+width: 400px;
+float: right;
+//border: 1px solid blue;
+margin-left: 20px;
+position:  scroll;
+}
+#ifa{
+border-radius: 50%;
+margin: 20px 40px 10px 70px;
+border: 5px solid grey; 
+}
+#fa{
+height: 300px;
+width: 400px;
+float: right;
+//border: 1px solid blue;
+margin-left: 20px;
+margin-right: 20px;
+}
+#k{
+font-size: 25px;
+ color:rgb(250,100,198);
+border-right:5px solid red;
+}
+
